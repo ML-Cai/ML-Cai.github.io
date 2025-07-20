@@ -1,5 +1,5 @@
 ---
-title: Cross Gate-Legacy Introduction
+title: Cross Gate-Legacy Project Introduction
 date: 2025-07-06 03:50:00 +0800
 author: <menglcai>
 categories: [CrossGate-Legacy]
